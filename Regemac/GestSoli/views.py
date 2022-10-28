@@ -42,7 +42,36 @@ def editarSolicitud(request):
     solicitud.direccion = direccion
     solicitud.solicitante = solicitante
     solicitud.prioridad = prioridad
-    solicitud.save()
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ()
     
     messages.success(request, 'Solicitud modificada')
     
